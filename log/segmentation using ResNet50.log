@@ -1,0 +1,8 @@
+1.5s 1 /opt/conda/lib/python3.10/site-packages/traitlets/traitlets.py:2930: FutureWarning: --Exporter.preprocessors=["nbconvert.preprocessors.ExtractOutputPreprocessor"] for containers is deprecated in traitlets 5.0. You can pass `--Exporter.preprocessors item` ... multiple times to add items to a list.
+1.5s 2 warn(
+1.5s 3 [NbConvertApp] WARNING | Config option `kernel_spec_manager_class` not recognized by `NbConvertApp`.
+1.6s 4 [NbConvertApp] Converting notebook __notebook__.ipynb to html
+2.4s 5 [NbConvertApp] Support files will be in __results___files/
+2.4s 6 [NbConvertApp] Making directory __results___files
+2.4s 7 [NbConvertApp] Making directory __results___files
+2.4s 8 [NbConvertApp] Writing 388794 bytes to __results__.html 

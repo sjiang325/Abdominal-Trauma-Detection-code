@@ -1,0 +1,26 @@
+28.7s 1 /opt/conda/lib/python3.10/site-packages/scipy/__init__.py:146: UserWarning: A NumPy version >=1.16.5 and <1.23.0 is required for this version of SciPy (detected version 1.23.5
+28.7s 2 warnings.warn(f"A NumPy version >={np_minversion} and <{np_maxversion}"
+36.4s 3 /kaggle/working/./pretrainedmodels-0.7.4/pretrainedmodels-0.7.4/pretrainedmodels/models/dpn.py:255: SyntaxWarning: "is" with a literal. Did you mean "=="?
+36.4s 4 if block_type is 'proj':
+36.4s 5 /kaggle/working/./pretrainedmodels-0.7.4/pretrainedmodels-0.7.4/pretrainedmodels/models/dpn.py:258: SyntaxWarning: "is" with a literal. Did you mean "=="?
+36.4s 6 elif block_type is 'down':
+36.4s 7 /kaggle/working/./pretrainedmodels-0.7.4/pretrainedmodels-0.7.4/pretrainedmodels/models/dpn.py:262: SyntaxWarning: "is" with a literal. Did you mean "=="?
+36.4s 8 assert block_type is 'normal'
+47.0s 9 We load 3 models here:
+47.0s 10 1: 3d semantic segmentation model for segment organs
+47.0s 11 2: 2.5d classification model for classify organs
+47.0s 12 3: 2.5d classification model for classify extravasation
+47.0s 13 
+66.4s 14 /opt/conda/lib/python3.10/site-packages/traitlets/traitlets.py:2930: FutureWarning: --Exporter.preprocessors=["remove_papermill_header.RemovePapermillHeader"] for containers is deprecated in traitlets 5.0. You can pass `--Exporter.preprocessors item` ... multiple times to add items to a list.
+66.4s 15 warn(
+66.4s 16 [NbConvertApp] WARNING | Config option `kernel_spec_manager_class` not recognized by `NbConvertApp`.
+66.4s 17 [NbConvertApp] Converting notebook __notebook__.ipynb to notebook
+66.7s 18 [NbConvertApp] Writing 303454 bytes to __notebook__.ipynb
+68.0s 19 /opt/conda/lib/python3.10/site-packages/traitlets/traitlets.py:2930: FutureWarning: --Exporter.preprocessors=["nbconvert.preprocessors.ExtractOutputPreprocessor"] for containers is deprecated in traitlets 5.0. You can pass `--Exporter.preprocessors item` ... multiple times to add items to a list.
+68.0s 20 warn(
+68.0s 21 [NbConvertApp] WARNING | Config option `kernel_spec_manager_class` not recognized by `NbConvertApp`.
+68.0s 22 [NbConvertApp] Converting notebook __notebook__.ipynb to html
+68.8s 23 [NbConvertApp] Support files will be in __results___files/
+68.8s 24 [NbConvertApp] Making directory __results___files
+68.8s 25 [NbConvertApp] Making directory __results___files
+68.8s 26 [NbConvertApp] Writing 355682 bytes to __results__.html 
